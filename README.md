@@ -1,4 +1,4 @@
-## Frontend Application with React, Tailwind CSS, TypeScript, and shadcn
+### Frontend Application with React, Tailwind CSS, TypeScript, and shadcn
 
 ## Features
 <ul>
@@ -14,3 +14,15 @@
   <li>Tailwind CSS: A utility-first CSS framework for styling.</li>
   <li>shadcn: A library for managing and customizing components.</li>
 </ul>
+
+## Project setup
+
+```bash
+$ npm install
+```
+
+## Compile and run the project
+
+```bash
+# development
+$ npm run start
